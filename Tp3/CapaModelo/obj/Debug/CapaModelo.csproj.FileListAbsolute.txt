@@ -1,0 +1,18 @@
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\gonza\OneDrive\Escritorio\022_SistemaVentaAspMVC-main\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\gonza\OneDrive\Escritorio\022_SistemaVentaAspMVC-main\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\gonza\OneDrive\Escritorio\022_SistemaVentaAspMVC-main\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\gonza\OneDrive\Escritorio\022_SistemaVentaAspMVC-main\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\022_SistemaVentaAspMVC-main\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\gonza\OneDrive\Escritorio\022_SistemaVentaAspMVC-main\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\gonza\OneDrive\Escritorio\ERP GRUPO 5\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\gonza\OneDrive\Escritorio\ERP GRUPO 5\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\gonza\OneDrive\Escritorio\ERP GRUPO 5\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\gonza\OneDrive\Escritorio\ERP GRUPO 5\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\ERP GRUPO 5\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\gonza\OneDrive\Escritorio\ERP GRUPO 5\CapaModelo\obj\Debug\CapaModelo.pdb

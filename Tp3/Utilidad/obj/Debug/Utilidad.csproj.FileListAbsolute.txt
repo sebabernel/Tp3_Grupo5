@@ -1,0 +1,6 @@
+C:\Users\gonza\OneDrive\Escritorio\Beta\ERP GRUPO 5 Func  sin ruc\Utilidad\bin\Debug\Utilidad.dll
+C:\Users\gonza\OneDrive\Escritorio\Beta\ERP GRUPO 5 Func  sin ruc\Utilidad\bin\Debug\Utilidad.pdb
+C:\Users\gonza\OneDrive\Escritorio\Beta\ERP GRUPO 5 Func  sin ruc\Utilidad\obj\Debug\Utilidad.csproj.AssemblyReference.cache
+C:\Users\gonza\OneDrive\Escritorio\Beta\ERP GRUPO 5 Func  sin ruc\Utilidad\obj\Debug\Utilidad.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\Beta\ERP GRUPO 5 Func  sin ruc\Utilidad\obj\Debug\Utilidad.dll
+C:\Users\gonza\OneDrive\Escritorio\Beta\ERP GRUPO 5 Func  sin ruc\Utilidad\obj\Debug\Utilidad.pdb
